@@ -1,4 +1,4 @@
-//C program for node creation of singly linked list and its display .
+//C program for node creation of single linked list and its display .
 
 #include<stdio.h>
 #include<stdlib.h>
