@@ -1,4 +1,4 @@
-//C program for insertion of a node at the end of singly linked list.
+//C program for insertion of a node at the end of single linked list.
 #include<stdio.h>
 #include<stdlib.h>
 
