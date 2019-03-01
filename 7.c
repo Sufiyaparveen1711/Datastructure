@@ -1,4 +1,4 @@
-//C program to delete a node after given location of singly linked list.
+//C program to delete a node after given location of single linked list.
 #include<stdio.h>
 #include<stdlib.h>
 
