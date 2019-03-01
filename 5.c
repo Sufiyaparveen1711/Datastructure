@@ -1,4 +1,4 @@
-//C program to delete first node of singly linked list.
+//C program to delete first node of single linked list.
 #include<stdio.h>
 #include<stdlib.h>
 
