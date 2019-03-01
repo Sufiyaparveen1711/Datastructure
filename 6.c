@@ -1,4 +1,4 @@
-//C program to delete last node of singly linked list.
+//C program to delete last node of single linked list.
 #include<stdio.h>
 #include<stdlib.h>
 
